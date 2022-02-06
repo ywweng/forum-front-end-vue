@@ -1288,7 +1288,6 @@ const dummyData = {
   },
   isFollowed: false,
 }
-
 const dummyUser = {
   currentUser: {
     id: 1,

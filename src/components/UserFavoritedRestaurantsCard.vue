@@ -22,6 +22,7 @@
 </template>
 
 <script>
+
 export default {
   props: {
     favoritedRestaurants: {
@@ -30,4 +31,5 @@ export default {
     },
   },
 }
+
 </script>

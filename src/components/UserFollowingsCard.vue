@@ -17,6 +17,7 @@
 </template>
 
 <script>
+
 export default {
   props: {
     followings: {
@@ -25,4 +26,5 @@ export default {
     },
   },
 }
+
 </script>

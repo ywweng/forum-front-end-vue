@@ -55,6 +55,7 @@
 </template>
 
 <script>
+
 export default {
   props: {
     initialUser: {
@@ -85,4 +86,5 @@ export default {
     },
   },
 }
+
 </script>

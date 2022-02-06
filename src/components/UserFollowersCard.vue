@@ -1,4 +1,5 @@
 <template>
+
   <div class="card">
     <div class="card-header">
       <strong>{{ followers.length }}</strong> followers (追隨者)
@@ -25,4 +26,5 @@ export default {
     },
   },
 }
+
 </script>

@@ -22,6 +22,7 @@
 </template>
 
 <script>
+
 export default {
   props: {
     comments: {
@@ -30,4 +31,5 @@ export default {
     },
   },
 }
+
 </script>
